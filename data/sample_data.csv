@@ -1,0 +1,9 @@
+expense_id,description,amount,currency,paid_by,split_method,date,category
+1,Dinner at Restaurant,120.50,BGN,Ivan,equal,2024-01-15,Food
+2,Taxi to Airport,45.00,BGN,Maria,equal,2024-01-15,Transport
+3,Hotel Room,280.00,BGN,Georgi,equal,2024-01-15,Accommodation
+4,Museum Tickets,36.00,BGN,Ivan,equal,2024-01-16,Entertainment
+5,Lunch,65.00,BGN,Maria,equal,2024-01-16,Food
+6,Souvenirs,50.00,BGN,Georgi,shares,2024-01-16,Shopping
+7,Coffee and Snacks,22.50,BGN,Ivan,equal,2024-01-16,Food
+8,Return Taxi,48.00,BGN,Maria,equal,2024-01-17,Transport
